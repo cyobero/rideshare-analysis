@@ -180,11 +180,11 @@ shift_id,date,day_of_week,time_of_day,start_location,end_location_street,end_loc
 143,2024-02-03,Saturday,Dinner,Marco's Pizza (171 W Centennial Pkwy),Grant Hill Ave,89081,13.02,13.26,17.33,4.4,17:46
 143,2024-02-03,Saturday,Dinner,China A Go-Go (5960 Losee Rd),N Arbor Crest St,89081,5.03,5.03,12.77,2.5,18:04
 143,2024-02-03,Saturday,Dinner,Wingstop (5725 Losee Rd),Journey Hills St,89084,14.76,14.76,26.08,6.6,18:08
-144,2024-02-05,Monday,Lunch,Rivas Mexican Grill #3 (6885 N Aliante Pkwy),N Grand Canyon Dr,89166,7.90,7.90,27.15,9.9,11:32
-144,2024-02-05,Monday,Lunch,Blaze Pizza (7160 N Durango Dr),Flowering Meadows Ave,89131,18.32,18.32,39.25,10.5,12:00
-145,2024-02-06,Tuesday,Dinner,Carl's Jr. (2650 Nature Park Dr),Giant Oak St,89084,5.03,5.03,15.78,3.3,16:59
-145,2024-02-06,Tuesday,Dinner,TGI Friday's (7300 N Aliante Pkwy),Fledgling Dr,89084,11.19,12.35,15.83,2.7,17:14
-145,2024-02-06,Tuesday,Dinner,Subway (6885 Aliante Pkwy),Jamaica Coast Ct,89031,7.30,7.30,12.77,3,17:37
-145,2024-02-06,Tuesday,Dinner,McDonald's (2836 W Ann Rd),Bright Leaf Ct,89031,5.47,5.47,14.72,2.3,17:38
-145,2024-02-06,Tuesday,Dinner,Amazing Thai (3000 W Ann Rd),Morning Falls Ave,89131,13.13,13.13,31.62,5.9,18:01
-145,2024-02-06,Tuesday,Dinner,Chipotle Mexican Grill (6211 N Decatur Blvd),Courlan Dr,89084,5.70,5.70,16.50,5.3,18:34
+144,2024-02-05,Monday,Lunch,Rivas Mexican Grill #3 (6885 N Aliante Pkwy),N Grand Canyon Dr,89166,$7.90,$7.90,27.15,9.9,11:32
+144,2024-02-05,Monday,Lunch,Blaze Pizza (7160 N Durango Dr),Flowering Meadows Ave,89131,$18.32,$18.32,39.25,10.5,12:00
+145,2024-02-06,Tuesday,Dinner,Carl's Jr. (2650 Nature Park Dr),Giant Oak St,89084,$5.03,$5.03,15.78,3.3,16:59
+145,2024-02-06,Tuesday,Dinner,TGI Friday's (7300 N Aliante Pkwy),Fledgling Dr,89084,$11.19,$12.35,15.83,2.7,17:14
+145,2024-02-06,Tuesday,Dinner,Subway (6885 Aliante Pkwy),Jamaica Coast Ct,89031,$7.30,$7.30,12.77,3,17:37
+145,2024-02-06,Tuesday,Dinner,McDonald's (2836 W Ann Rd),Bright Leaf Ct,89031,$5.47,$5.47,14.72,2.3,17:38
+145,2024-02-06,Tuesday,Dinner,Amazing Thai (3000 W Ann Rd),Morning Falls Ave,89131,$13.13,$13.13,31.62,5.9,18:01
+145,2024-02-06,Tuesday,Dinner,Chipotle Mexican Grill (6211 N Decatur Blvd),Courlan Dr,89084,$5.70,$5.70,16.50,5.3,18:34
