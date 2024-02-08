@@ -1,190 +1,190 @@
-shift_id,date,day_of_week,time_of_day,start_location,end_location_street,end_location_zip,expected_earnings,actual_earnings,duration,distance,time_requested
-110,2024-01-10,Wednesday,Breakfast,McDonald's (6680 N 5th St),W Deer Springs Way,89084,2.25,2.25,18.88,1,10:47
-110,2024-01-10,Wednesday,Breakfast,Sierra Gold (6929 N Aliante Pkwy),Acacia Grove St,89031,3.08,3.08,18.47,6.3,10:57
-110,2024-01-10,Wednesday,Lunch,KFC (5700 Losee Rd),N Lamb Blvd,89115,7.77,7.71,25.57,8.5,11:26
-110,2024-01-10,Wednesday,Lunch,Denny's (420 E Deer Springs Way),Calumet Point St,89081,6.79,6.79,20.40,7.4,11:48
-110,2024-01-10,Wednesday,Lunch,Jack in the Box (6345 N Losee Rd),Granite Ash Ave,89081,3.33,3.33,13.83,3.8,12:19
-110,2024-01-10,Wednesday,Lunch,Harold's Chicken Shack (6320 Simmons St),Sassa St,89130,5.07,5.07,11.05,3.3,12:37
-110,2024-01-10,Wednesday,Lunch,Saladworks (6572 N Decatur Blvd),Rialto Rd,89108,5.28,5.28,20.38,7.8,12:49
-110,2024-01-10,Wednesday,Lunch,Roberto's Taco Shop (4725 N Rancho Dr),Red Saturn Dr,89130,4.27,4.27,14.13,4,13:21
-111,2024-01-10,Wednesday,Dinner,Chili's Grill & Bar (6505 N Decautr Blvd),E Rome Blvd,89084,4.03,4.03,16.98,6.4,16:34
-111,2024-01-10,Wednesday,Dinner,Zen Curry Dining (225 W Centennial Pkwy),Legend Falls St,89081,17.04,15.58,31.35,6.5,17:01
-111,2024-01-10,Wednesday,Dinner,Zen Curry Dining (225 W Centennial Pkwy),Ropers Rock Ct,89131,5.09,5.09,20.88,9,17:32
-111,2024-01-10,Wednesday,Dinner,China A Go-Go (5960 Losee Rd),Annville Ct,89081,7.16,7.16,17.38,3,17:33
-112,2024-01-11,Thursday,Breakfast,The Burger Den (7071 W Craig Rd),Sky Pointe Dr,89130,5.49,5.49,32.17,9.1,6:09
-112,2024-01-11,Thursday,Breakfast,Taco Bell (3260 N Durango Rd),Canyon Magic Ave,89129,4.55,4.55,17.33,6.3,6:24
-112,2024-01-11,Thursday,Breakfast,7-Eleven (3250 N Durango Rd),N Rampart Blvd,89128,4.00,4.00,13.97,1.2,7:07
-112,2024-01-11,Thursday,Breakfast,Walgreens (8500 W Cheyenne Ave),Country Pines Ave,89129,5.00,5.00,9.53,1.4,7:34
-112,2024-01-11,Thursday,Breakfast,McDonald's (8425 W Centennial Pkwy),Deer Springs Way,89149,3.70,3.70,24.28,1,7:38
-112,2024-01-11,Thursday,Breakfast,Starbucks (7170 N Durango Dr),Green Ferry Ave,89131,5.05,5.05,23.22,5.6,8:09
-113,2024-01-12,Friday,Dinner,Jack in the Box (6445 N Aliante Pkwy),Villa Pisani Ct,89031,3.00,3.00,7.78,1.3,16:01
-113,2024-01-12,Friday,Dinner,Rocco's New York Pizza (6885 N Aliante Pkwy),Coral Gables Dr,89130,5.01,5.01,16.80,4.8,16:13
-113,2024-01-12,Friday,Dinner,Rivas Mexican Grill (6885 N Aliante Pkwy),Cabot Falls Ave,89149,8.52,8.52,23.78,10.3,17:02
-113,2024-01-12,Friday,Dinner,Buffalo Wild Wings (150 E Centennial Pkwy),Saddlebill Ct,89084,10.98,13.49,12.87,3,17:02
-113,2024-01-12,Friday,Dinner,Burger King (9640 W Skye Canyon Park Rd),Oso Blanca Rd,89149,4.42,4.42,13.17,3.2,17:37
-113,2024-01-12,Friday,Dinner,Bowlology (5635 Centennial Center Blvd),Aztec Heights St,89081,10.15,10.63,34.60,14.3,17:40
-113,2024-01-12,Friday,Dinner,Roberto's Taco Shop (5725 Losee Rd),Bounding Home Rd,89086,4.90,4.90,23.88,5.2,18:22
-113,2024-01-12,Friday,Dinner,Golden Phoenix Chinese Restaurant (2345 Centennial Pkwy),Moon Hill Rock Ave,89084,13.06,13.06,18.35,7.9,18:54
-114,2024-01-13,Saturday,Breakfast,Roberto's Taco Shop (6335 N Commerce St),Morning Splash Ave,89131,8.72,8.72,31.68,8.4,7:49
-114,2024-01-13,Saturday,Breakfast,7-Eleven (6620 N 5th St),E Azure Ave,89081,5.00,5.00,11.52,2.8,7:39
-114,2024-01-13,Saturday,Breakfast,Chick-fil-A (1720 W Craig Rd),Thorntree Ave,89031,3.49,3.49,19.00,5.3,7:24
-114,2024-01-13,Saturday,Breakfast,Jack in the Box (5536 N Camino Al Norte),Royal Yacht Way ,89031,2.00,2.00,8.42,2.7,7:22
-114,2024-01-13,Saturday,Breakfast,McDonald's (5740 Losee Rd),Hollycroft Dr,89081,6.92,6.92,19.45,4.9,6:45
-115,2024-01-13,Saturday,Dinner,Roberto's Taco Shop (7155 Grand Montecito Pkwy),Rancho Camino Ct,89129,6.05,6.05,18.18,5.4,18:28
-115,2024-01-13,Saturday,Dinner,Don Tortaco #7 (9859 W Deer Srpings Way),N Durango Dr,89149,5.12,5.12,12.80,2.6,18:17
-115,2024-01-13,Saturday,Dinner,Taco Bell (8043 N Durango Dr),Grissy Butte Ct,89149,7.36,7.36,12.85,3.6,18:06
-115,2024-01-13,Saturday,Dinner,Panda Express (6475 N Decatur Blvd),Colorful Pines Ave,89143,10.74,10.74,27.62,10.4,17:37
-115,2024-01-13,Saturday,Dinner,Lulu Hawaiian BBQ (6512 N Decatur Blvd),Aliante Pkwy,89084,7.36,7.36,20.65,5,17:13
-115,2024-01-13,Saturday,Dinner,The Habit Burger Grill (6482 N Decatur Blvd),Flower Moon Ave,89084,5.02,5.02,17.13,2.7,16:51
-115,2024-01-13,Saturday,Dinner,Roberto's Taco Shop (6320 Simmons St),Mmmorning Splash Ave,89131,6.68,6.68,20.03,5.3,16:16
-116,2024-01-14,Sunday,Lunch,Capriotti's Sandwich Shop (7300 N Aliante Pkwy),Vass Springs Pl,89084,5.33,5.33,16.23,3.6,13:43
-116,2024-01-14,Sunday,Lunch,Taco Bell (2760 W Ann Rd),Mojave Evening St,89084,4.69,4.69,16.55,6,13:21
-116,2024-01-14,Sunday,Lunch,Subway (6770 N Durango Dr),Sky Pointe Dr,89130,6.79,6.79,25.07,8.2,12:14
-116,2024-01-14,Sunday,Lunch,Panda Express (6475 N Decatur Blvd),Killian Ave,89084,5.64,5.64,14.87,2.9,12:10
-117,2024-01-14,Sunday,Dinner,Geisha House of Steak & Sushi (6572 N Decatur Blvd),Mountain Rail Dr,89084,4.59,4.59,18.08,5,18:20
-117,2024-01-14,Sunday,Dinner,Five Guys (2520 E Craig Rd),Porticella Ave,89084,7.39,7.39,27.73,11,17:46
-117,2024-01-14,Sunday,Dinner,Taco Bell (355 W Centennial Pkwy),Sierra Breeze Ave,89031,4.00,4.00,11.33,1.3,17:30
-117,2024-01-14,Sunday,Dinner,Pizza Hut (6355 N Commerce St),Pine Willow Ct,89084,3.78,3.78,7.05,1,17:08
-118,2024-01-15,Monday,Lunch,Jersey Mike's (5595 Simmons St),Nnnaff Ridge Dr,89131,5.70,5.70,28.58,5,13:15
-118,2024-01-15,Monday,Lunch,Roberto's Taco Shop (6320 Simmons St),Iberville St,89031,7.80,7.80,10.23,2.2,13:02
-118,2024-01-15,Monday,Lunch,The Habit Burger Grill (6482 N Decatur Blvd),W Ann Rd,89031,4.60,4.60,19.05,4,13:38
-118,2024-01-15,Monday,Lunch,Smashburger (5655 Centennial Center Blvd),W Rome Blvd,89084,6.23,6.23,22.97,7.8,12:15
-118,2024-01-15,Monday,Lunch,Capriotti's Sandwich Shop (7240 W Azure Rd),W Prairie Run Ave,89149,4.60,4.60,15.03,4.3,11:56
-118,2024-01-15,Monday,Lunch,McDonald's (6595 N Decatur Blvd),California Condor Ave,89084,4.30,4.30,16.87,3.1,11:34
-118,2024-01-15,Monday,Lunch,McDonald's (6595 N Decatur Blvd),Mazarine St,89084,8.09,8.09,14.47,3.6,11:18
-119,2024-01-15,Monday,Dinner,McDonald's (9566 W Skye Canyon Park),Marble Lake St,89149,5.14,5.14,20.37,3.3,18:12
-119,2024-01-15,Monday,Dinner,Subway (8430 W Farm Rd),Big Plantation Ave,89143,11.97,11.97,22.77,3,17:48
-119,2024-01-15,Monday,Dinner,Greens & Proteins (6180 N Decatur Blvd),Tule Springs Rd,89131,9.18,9.18,29.63,7.4,17:21
-119,2024-01-15,Monday,Dinner,CJ's Italian Ice & Custard (6885 N Aliante Pkwy),N Decatur Blvd,89131,7.90,7.90,20.43,5.4,17:02
-119,2024-01-15,Monday,Dinner,7-Eleven (2525 W Deer Springs Way),Moonglade St,89084,3.05,3.05,16.22,4.1,16:30
-120,2024-01-17,Wednesday,Lunch,Burger King (6091 N Decatur Blvd),Seyfert Ave,89084,11.77,11.77,28.45,4.6,13:28
-120,2024-01-17,Wednesday,Lunch,Capriotti's Sandwich Shop (2620 Nature Park Dr),W Ann Rd,89031,5.00,5.00,9.92,2.7,13:04
-120,2024-01-17,Wednesday,Lunch,Chili's Grill & Bar (6505 N Decautr Blvd),Cascade Pools Ave,89131,7.08,7.08,12.03,5.6,12:41
-120,2024-01-17,Wednesday,Lunch,Panera (7890 W Tropical Pkwy),Lagunilla Ave,89149,4.04,4.04,12.08,3.8,12:07
-120,2024-01-17,Wednesday,Lunch,Rachel's Kitchen (7010 N Durango Dr),Hadnot St,89166,10.59,10.59,30.13,6.5,11:49
-120,2024-01-17,Wednesday,Lunch,The Habit Burger Grill (6482 N Decatur Blvd),N Durango Dr,89149,9.62,9.62,19.10,6.4,11:34
-121,2024-01-18,Thursday,Lunch,Fatburger (4525 N Rancho Dr),Cabin Fever St,89149,7.48,7.48,25.95,11.4,11:07
-121,2024-01-18,Thursday,Lunch,Freed's Desert Shop (6475 N Decatur Blvd),Special Ct,89130,7.24,7.24,10.53,3.2,11:19
-122,2024-01-18,Thursday,Dinner,Capriotti's Sandwich Shop (2620 Nature Park Dr),Discovery Downs Ct,89081,7.08,7.08,16.90,8.5,16:42
-122,2024-01-18,Thursday,Dinner,7-Eleven (260 W Centennial Pkwy),Silent Sunset Ave,89084,3.34,3.34,11.35,4.2,16:48
-122,2024-01-18,Thursday,Dinner,Roberto's Taco Shop (6335 N Commerce St),Cornerstone Pl,89031,8.01,8.01,8.92,2.4,17:10
-122,2024-01-18,Thursday,Dinner,Capriotti's Sandwich Shop (2620 Nature Park Dr),Angels Landing Ave,89131,10.47,11.58,14.50,3.5,17:33
-122,2024-01-18,Thursday,Dinner,The Habit Burger Grill (6482 N Decatur Blvd),Nuevo Leon St,89031,3.52,3.52,14.90,3.4,17:49
-122,2024-01-18,Thursday,Dinner,Roberto's Taco Shop (6320 Simmons St),Glimmer Point St,89084,5.59,5.59,16.45,3.2,18:07
-122,2024-01-18,Thursday,Dinner,7-Eleven (2525 W Deer Springs Way),Whispering Marsh Dr,89131,4.60,4.60,16.08,5.6,18:16
-122,2024-01-18,Thursday,Dinner,Rivas Mexican Grill (6885 N Aliante Pkwy),Contour Bend Ave,89084,5.00,5.00,15.37,2.9,18:53
-123,2024-01-19,Friday,Dinner,Mconald's (4804 W Lone Mountain R),Refield Ave,89032,6.79,4.79,21.08,4.2,16:18
-123,2024-01-19,Friday,Dinner,Shake Shack (1830 W Craig Rd),Cedar Waxwing St,89084,8.87,6.87,26.68,9.6,16:47
-123,2024-01-19,Friday,Dinner,Geisha House of Steak & Sushi (6572 N Decatur Blvd),Fawn Heather Ct,89149,8.49,8.49,20.08,6.5,17:19
-123,2024-01-19,Friday,Dinner,McDonald's (8425 W Centennial Pkwy),N Durango Dr,89149,5.76,5.76,13.23,1.9,17:40
-123,2024-01-19,Friday,Dinner,Taco Bell (6520 N Buffalo Dr),Willldhorse Lege Ave,89131,8.06,8.06,26.35,8.8,17:53
-123,2024-01-19,Friday,Dinner,TGI Friday's (7300 N Aliante Pkwy),Little Bow Ave,89084,6.78,6.78,19.43,4,18:17
-123,2024-01-19,Friday,Dinner,Little Caesars (5515 Camino Al Norte),Menenhall Dr,89081,5.06,5.06,16.28,4.6,18:34
-123,2024-01-19,Friday,Dinner,L&L Hawaiian Barbecue (2520 E Craig Rd),McCarran St,89081,10.07,10.07,16.85,4.4,19:03
-123,2024-01-19,Friday,Dinner,China A Go-Go (5960 Losee Rd),Willowick Ave,89031,6.29,6.29,12.72,3.6,19:25
-124,2024-01-20,Saturday,Breakfast,Jack in the Box (6445 N Aliante Pkwy),Clayton St,89031,4.01,4.01,21.42,6.1,10:36
-124,2024-01-20,Saturday,Lunch,7-Eleven (2525 W Deer Springs Way),Majestic Pond Ave,89084,3.00,3.00,7.40,1.7,11:21
-124,2024-01-20,Saturday,Lunch,Jack in the Box (5536 N Camino Al Norte),W Lone Mountain Rd,89031,5.06,5.06,20.80,4.2,11:28
-125,2024-01-20,Saturday,Dinner,Roberto's Taco Shop (6320 Simmons St),Winter Valley Ct,89130,7.08,7.08,14.68,5,17:21
-125,2024-01-20,Saturday,Dinner,McDonald's (2836 W Ann Rd),W Gowan Rd,89032,5.08,5.08,21.40,8.2,17:21
-125,2024-01-20,Saturday,Dinner,Tacos Los Barrios (1570 W Cheyenne Ave),Deep Valley Ave,89084,12.90,12.90,33.67,11.2,18:05
-125,2024-01-20,Saturday,Dinner,McDonald's (6680 N 5th St),Crazy Creek St,89031,4.43,4.43,13.30,4,18:33
-125,2024-01-20,Saturday,Dinner,Roberto's Taco Shop (6320 Simmons St),Glennmeadow Ct,89084,5.67,5.67,13.22,4.6,18:54
-126,2024-01-21,Sunday,Dinner,Taco Bell (355 W Centennial Pkwy),Icy River Ave,89031,3.09,3.09,8.45,2.5,16:37
-126,2024-01-21,Sunday,Dinner,Buffalo Wild Wings (150 E Centennial Pkwy),Monte Alban Dr,89031,17.58,17.58,31.02,6.4,16:46
-126,2024-01-21,Sunday,Dinner,Krispy Kreme (1331 W Craig Rd),Majestic Pond Ave,89084,4.08,4.08,20.62,5.9,17:14
-126,2024-01-21,Sunday,Dinner,Walgreens (6435 N Aliante Pkwy),Beeline Ct,89031,4.00,4.00,10.65,2.6,17:36
-126,2024-01-21,Sunday,Dinner,Denny's (5585 Simmons St),Garden Swing Ave,89031,3.22,3.22,12.38,3.3,17:47
-126,2024-01-21,Sunday,Dinner,Shake Shack (1830 W Craig Rd),E Craig Rd,89115,15.35,18.74,19.83,6.6,17:58
-127,2024-01-22,Monday,Dinner,Panda Express (6475 N Decatur Blvd),W Gliding Gulls Ave,89084,4.00,4.00,10.82,3.1,18:50
-127,2024-01-22,Monday,Dinner,Burger King (6091 N Decatur Blvd),Sunray Point St,89084,7.51,7.51,35.57,7,18:19
-127,2024-01-22,Monday,Dinner,Panda Express (5595 Simmons St),Black Eyed Susan Ct,89031,3.09,3.09,16.55,3.8,18:19
-127,2024-01-22,Monday,Dinner,Cinnaholic (7920 W Tropical Pkwy),Mountain Rail Dr,89084,7.52,7.52,27.35,8.3,17:24
-127,2024-01-22,Monday,Dinner,Burger King (3004 W Ann Rd),Dover Glen Dr,89031,11.42,11.42,24.62,4.8,17:20
-127,2024-01-22,Monday,Dinner,Atomic Wings (5595 Simmons St),Maiden Run Ave,89130,4.23,4.23,17.98,6.3,17:07
-127,2024-01-22,Monday,Dinner,The Habit Burger Grill (6482 N Decatur Blvd),Rietz Canyon St,89131,4.04,4.04,15.18,4.2,16:37
-127,2024-01-22,Monday,Dinner,Roberto's Taco Shop (6320 Simmons St),W Deer Springs Way,89084,3.01,3.01,18.80,4.2,8:39
-128,2024-01-24,Wednesday,Lunch,Chick-fil-A (1720 W Craig Rd),N Capehart Falls St,89081,5.07,5.07,22.95,7.1,12:44
-128,2024-01-24,Wednesday,Lunch,Harold's Chicken Shack (6320 Simmons St),Craig Crossing Dr,89032,3.49,3.49,15.68,4.3,12:35
-128,2024-01-24,Wednesday,Lunch,Pinkbox Doughnuts (1210 W Craig Rd),Diamond Beach Ct,89031,6.08,6.08,13.68,4.3,12:14
-128,2024-01-24,Wednesday,Lunch,Firehouse Subs (6171 N Decatur Blvd),W Craig Rd,89032,7.31,7.31,19.47,10.4,11:57
-129,2024-01-25,Thursday,Lunch,Taco Bell (2760 W Ann Rd),N Divers Loons St,89084,9.51,9.51,21.47,5.1,13:17
-129,2024-01-25,Thursday,Lunch,Jack in the Box (6445 N Aliante Pkwy),Gallowgate Ct,89084,8.64,8.64,10.25,1.7,13:08
-129,2024-01-25,Thursday,Lunch,Popeye's (605 W Craig Rd),Mosaic St,89032,8.64,8.64,15.45,3.9,12:41
-129,2024-01-25,Thursday,Lunch,Tropical Smoothie Cafe (445 W Craig Rd),W Brooks Ave,89030,4.19,4.19,13.03,3.1,12:24
-129,2024-01-25,Thursday,Lunch,China A Go-Go (5960 Losee Rd),W Craig Rd,89032,4.46,4.46,20.42,4.3,12:05
-129,2024-01-25,Thursday,Lunch,Houston Tx Hot Chicken (7155 W Ann Rd),Theodore St,89081,5.43,5.43,22.80,13.4,11:38
-130,2024-01-25,Thursday,Dinner,Rivas Mexican Grill #3 (6885 N Aliante Pkwy),N Strutting Silver Ct,89131,7.04,7.04,19.45,6.9,18:35
-130,2024-01-25,Thursday,Dinner,Taco Bell (355 W Centennial Pkwy),Great Hollow Ave,89086,4.11,4.11,15.75,2.5,18:21
-130,2024-01-25,Thursday,Dinner,Lllinda Michoacana Ice Cream (7501 N Cimarron Rd),Wickford Dr,89032,7.52,12.33,48.85,10.8,17:12
-130,2024-01-25,Thursday,Dinner,Blaze Pizza (6211 N Decatur Blvd),N Cimarron Rd,89131,13.30,13.30,38.88,7.8,16:42
-131,2024-01-26,Friday,Lunch,Zen Curry Dining (225 W Centennial Pkwy),Falling Tree Ave,89031,3.10,3.10,12.02,4.3,11:33
-131,2024-01-26,Friday,Lunch,Sunflower Vietnamese Restaurant (4210 W Craig Rd),Nesting Wren Dr,89084,7.06,7.06,18.50,6.8,12:00
-131,2024-01-26,Friday,Lunch,Subway (6885 Aliante Pkwy),Nash Tracks St,89084,7.89,7.89,11.10,1.8,13:04
-132,2024-01-26,Friday,Dinner,Marco's Pizza (171 W Centennial Pkwy),Champagne Gold Ave,89086,6.07,3.07,16.28,4.7,18:05
-132,2024-01-26,Friday,Dinner,China A Go-Go (5960 Losee Rd),E Craig Rd,89030,11.37,11.37,26.30,6.2,18:17
-132,2024-01-26,Friday,Dinner,McDonald's (5740 Losee Rd),E Rome Blvd,89086,5.37,5.37,15.10,4,18:43
-132,2024-01-26,Friday,Dinner,Roberto's Taco Shop (5725 Losee Rd),Highledge St,89081,3.51,3.51,13.75,3.4,18:55
-132,2024-01-26,Friday,Dinner,Rivas Mexican Grill #8 (2800 E Tropical Pkwy),Bear Springs St,89031,8.01,8.01,17.37,3.9,19:13
-132,2024-01-26,Friday,Dinner,Taco Bell (2760 W Ann Rd),San Esteban Ave,89084,5.59,5.59,15.10,4.9,19:27
-133,2024-01-27,Saturday,Lunch,Popeye's (6820 N 5th St),San Mateo St,89085,5.05,5.05,20.58,7.3,11:42
-134,2024-01-27,Saturday,Dinner,Del Taco (6160 N Decatur Blvd),Bristlebird St,89084,5.00,5.00,13.13,1.6,18:08
-135,2024-01-28,Sunday,Lunch,Firehouse Subs (6171 N Decatur Blvd),Yellow Mandarin Ave,89081,8.11,8.11,18.72,11.4,13:31
-135,2024-01-28,Sunday,Lunch,Wingstop (5725 Losee Rd),Iris Kelly Ave,89081,5.06,5.06,17.63,5.3,13:57
-135,2024-01-28,Sunday,Lunch,7-Eleven (529 E Lone Mountain Rd),Camarillo Dr,89031,4.11,4.11,13.58,4,14:13
-135,2024-01-28,Sunday,Lunch,Dave's Hot Chicken (1735 W Craig Rd),Tustin Hills St,89081,10.11,10.11,22.62,4.7,14:30
-135,2024-01-28,Sunday,Lunch,7-Eleven (260 W Centennial Pkwy),Healing Waters Ln,89031,3.00,3.00,11.67,3.1,14:53
-135,2024-01-28,Sunday,Lunch,Roberto's Taco Shop (6320 Simmons St),Barbosa Dr,89031,3.05,3.05,13.47,3.5,14:59
-136,2024-01-29,Monday,Lunch,Tropical Smoothie Cafe (6360 Simmons St),Aviano Pines Ave,89129,8.10,8.10,41.78,11.1,11:13
-136,2024-01-29,Monday,Lunch,Jack in the Box (3250 N Durango Dr),Village Center Cir,89134,4.01,4.01,22.43,6.1,12:02
-136,2024-01-29,Monday,Lunch,Cafe Rio (7664 W Lake Mead Blvd),W Cheyenne Ave,89129,6.04,6.04,18.83,5.3,12:32
-136,2024-01-29,Monday,Lunch,Capriotti's Sandwich Shop (7440 W Cheyenne Ave),N Trailhead Mesaaa St,89129,4.16,4.16,9.23,3.4,12:49
-136,2024-01-29,Monday,Lunch,Jack in the Box (6445 N Aliante Pkwy),Shanon Michelle Ave,89031,6.60,6.60,12.15,5.8,13:12
-136,2024-01-29,Monday,Lunch,Dave's Hot Chicken (1735 W Craig Rd),N Capehart Falls St,89081,6.51,6.51,27.42,7.6,13:16
-136,2024-01-29,Monday,Lunch,China A Go-Go (5960 Losee Rd),Boulder Canyon St,89084,6.59,6.59,12.67,4.2,13:48
-137,2024-01-29,Monday,Dinner,Dairy Queen Grill & Chill (2335 W Deer Springs Way),W Rome Blvd,89084,5.59,5.59,20.35,3.8,17:19
-137,2024-01-29,Monday,Dinner,Jersey Mike's (5595 Simmons St),Barrel Oak Ave,89031,6.55,6.55,22.93,5.1,17:39
-137,2024-01-29,Monday,Dinner,7-Eleven (2525 W Deer Springs Way),China Falls Ave,89085,7.05,7.05,14.82,5.1,18:13
-137,2024-01-29,Monday,Dinner,7-Eleven (2525 W Deer Springs Way),Cooks Meadow St,89084,5.12,5.12,12.20,2.5,18:33
-137,2024-01-29,Monday,Dinner,KFC (6965 Aliante Pkwy),Roundup Ridge St,89131,6.05,6.05,11.42,4,18:47
-138,2024-01-30,Tuesday,Lunch,Capriotti's Sandwich Shop (2620 Nature Park Dr),Lower Lake Ct,89084,3.08,3.08,14.73,4.7,11:28
-138,2024-01-30,Tuesday,Lunch,Einstein Bros Bagels (6770 N Durango Dr),Silk Threads Ave,89149,3.05,3.05,13.07,4.9,11:58
-138,2024-01-30,Tuesday,Lunch,Dunkin' (6935 N Durango Dr),Bluebird Wing St,89084,6.05,6.05,16.38,7.8,12:16
-138,2024-01-30,Tuesday,Lunch,Roberto's Taco Shop (6320 Simmons St),Inlet Bay Ave,89031,3.00,3.00,9.58,2.7,12:28
-138,2024-01-30,Tuesday,Lunch,Buffalo Wild Wings (150 E Centennial Pkwy),Rustic Village Ave,89086,11.26,11.26,25.37,4.3,12:28
-138,2024-01-30,Tuesday,Lunch,Makai Pacific Island Grill (6520 Losee Rd),Hansa Ave,89081,6.29,6.29,16.77,4.7,13:16
-138,2024-01-30,Tuesday,Lunch,Subway (6885 Aliante Pkwy),Deer Run Ct,89031,6.24,6.24,28.85,7.5,14:21
-139,2024-01-31,Wednesday,Breakfast,7-Eleven (2525 W Deer Springs Way),Warthen Meadows St,89131,4.08,4.08,16.92,5.2,10:55
-139,2024-01-31,Wednesday,Lunch,Cruncheese Korean Hotdog (6572 N Decatur Blvd),W Cheyenne Ave,89108,7.42,7.42,20.50,8.4,11:30
-139,2024-01-31,Wednesday,Lunch,Voodoo Wing Company (6728 W Cheyenne Ave),Fuchsia Nights Ave,89084,11.36,11.36,30.83,12,11:53
-139,2024-01-31,Wednesday,Lunch,Namba Sushi (2760 Deer Springs Way),Big Valley Ln,89081,4.68,4.68,23.92,6.3,14:17
-139,2024-01-31,Wednesday,Lunch,7-Eleven (2525 W Deer Springs Way),Orange Orchid Pl,89084,4.12,4.12,13.97,3.7,14:45
-139,2024-01-31,Wednesday,Dinner,Roberto's Taco Shop (6320 Simmons St),Beech Fern Ave,89084,6.68,6.68,22.27,5,16:59
-139,2024-01-31,Wednesday,Dinner,Zen Curry Dining (225 W Centennial Pkwy),Willow Berry Ave,89032,3.04,3.04,20.85,6.7,17:39
-140,2024-02-02,Friday,Breakfast,Popeye's (6820 N 5th St),Camino Al Norte,89031,5.66,5.66,36.88,7.7,10:38
-140,2024-02-02,Friday,Lunch,Chick-fil-A (1720 W Craig Rd),W Deer Springs Way,89084,5.05,5.05,18.55,5.5,11:14
-140,2024-02-02,Friday,Lunch,Zen Curry Dining (225 W Centennial Pkwy),Monte Alban Dr,89081,5.56,5.56,11.95,3.9,11:29
-140,2024-02-02,Friday,Lunch,Panera Bread (1520 E Craig Rd),Desert Ridge Ave,89031,6.81,6.81,25.80,5.9,11:46
-140,2024-02-02,Friday,Lunch,Roberto's Tacho Shop (6320 Simmons St),Apache Valley Ave,89131,8.19,8.19,23.17,6.6,12:10
-140,2024-02-02,Friday,Lunch,Harold's Chicken Shack (6320 Simmons St),Sunny Acres Ave,89081,5.06,5.06,20.33,6.8,12:31
-140,2024-02-02,Friday,Lunch,Roberto's Taco Shop (6320 Simmons St),Star Shadow St,89031,8.28,8.28,13.67,2.6,13:10
-140,2024-02-02,Friday,Lunch,Jack in the Box (6445 N Aliante Pkwy),Old Stable Ave,89131,17.84,18.84,32.22,7,13:31
-141,2024-02-02,Friday,Dinner,Capriotti's Sandwich Shop (2620 Nature Park Dr),Lamance Ct,89031,8.66,8.66,28.45,5,17:04
-142,2024-02-03,Saturday,Breakfast,McDonald's (6680 N 5th St),Armide St,89081,12.00,12.00,31.12,7.6,7:06
-143,2024-02-03,Saturday,Lunch,Jack in the Box (6445 N Aliante Pkwy),Morning Splash Ave,89131,9.57,9.57,23.02,5.5,11:31
-143,2024-02-03,Saturday,Lunch,7-Eleven (2525 W Deer Springs Way),Siena Rose St,89031,4.61,4.61,16.33,4,14:25
-143,2024-02-03,Saturday,Dinner,KFC (6965 Aliante Pkwy),N 5th St,89084,5.03,5.03,20.03,5.5,16:42
-143,2024-02-03,Saturday,Dinner,7-Eleven (6620 N 5th St),E Azure Ave,89081,4.00,4.00,7.70,1.2,17:07
-143,2024-02-03,Saturday,Dinner,Panda Express (6778 N 5th St),Arrowbird Ave,89031,9.00,9.00,11.07,2.7,17:15
-143,2024-02-03,Saturday,Dinner,7-Eleven (260 W Centennial Pkwy),Majestic Pearl Pl,89084,7.35,7.35,8.63,2.4,17:28
-143,2024-02-03,Saturday,Dinner,Marco's Pizza (171 W Centennial Pkwy),Grant Hill Ave,89081,13.02,13.26,17.33,4.4,17:46
-143,2024-02-03,Saturday,Dinner,China A Go-Go (5960 Losee Rd),N Arbor Crest St,89081,5.03,5.03,12.77,2.5,18:04
-143,2024-02-03,Saturday,Dinner,Wingstop (5725 Losee Rd),Journey Hills St,89084,14.76,14.76,26.08,6.6,18:08
-144,2024-02-05,Monday,Lunch,Rivas Mexican Grill #3 (6885 N Aliante Pkwy),N Grand Canyon Dr,89166,7.90,7.90,27.15,9.9,11:32
-144,2024-02-05,Monday,Lunch,Blaze Pizza (7160 N Durango Dr),Flowering Meadows Ave,89131,18.32,18.32,39.25,10.5,12:00
-145,2024-02-06,Tuesday,Dinner,Carl's Jr. (2650 Nature Park Dr),Giant Oak St,89084,5.03,5.03,15.78,3.3,16:59
-145,2024-02-06,Tuesday,Dinner,TGI Friday's (7300 N Aliante Pkwy),Fledgling Dr,89084,11.19,12.35,15.83,2.7,17:14
-145,2024-02-06,Tuesday,Dinner,Subway (6885 Aliante Pkwy),Jamaica Coast Ct,89031,7.30,7.30,12.77,3,17:37
-145,2024-02-06,Tuesday,Dinner,McDonald's (2836 W Ann Rd),Bright Leaf Ct,89031,5.47,5.47,14.72,2.3,17:38
-145,2024-02-06,Tuesday,Dinner,Amazing Thai (3000 W Ann Rd),Morning Falls Ave,89131,13.13,13.13,31.62,5.9,18:01
-145,2024-02-06,Tuesday,Dinner,Chipotle Mexican Grill (6211 N Decatur Blvd),Courlan Dr,89084,5.70,5.70,16.50,5.3,18:34
+shift_id,date,start_location,end_location_street,end_location_zip,expected_earnings,actual_earnings,duration,distance,time_requested
+110,2024-01-10,McDonald's (6680 N 5th St),W Deer Springs Way,89084,2.25,2.25,18.88,1,10:47
+110,2024-01-10,Sierra Gold (6929 N Aliante Pkwy),Acacia Grove St,89031,3.08,3.08,18.47,6.3,10:57
+110,2024-01-10,KFC (5700 Losee Rd),N Lamb Blvd,89115,7.77,7.71,25.57,8.5,11:26
+110,2024-01-10,Denny's (420 E Deer Springs Way),Calumet Point St,89081,6.79,6.79,20.40,7.4,11:48
+110,2024-01-10,Jack in the Box (6345 N Losee Rd),Granite Ash Ave,89081,3.33,3.33,13.83,3.8,12:19
+110,2024-01-10,Harold's Chicken Shack (6320 Simmons St),Sassa St,89130,5.07,5.07,11.05,3.3,12:37
+110,2024-01-10,Saladworks (6572 N Decatur Blvd),Rialto Rd,89108,5.28,5.28,20.38,7.8,12:49
+110,2024-01-10,Roberto's Taco Shop (4725 N Rancho Dr),Red Saturn Dr,89130,4.27,4.27,14.13,4,13:21
+111,2024-01-10,Chili's Grill & Bar (6505 N Decautr Blvd),E Rome Blvd,89084,4.03,4.03,16.98,6.4,16:34
+111,2024-01-10,Zen Curry Dining (225 W Centennial Pkwy),Legend Falls St,89081,17.04,15.58,31.35,6.5,17:01
+111,2024-01-10,Zen Curry Dining (225 W Centennial Pkwy),Ropers Rock Ct,89131,5.09,5.09,20.88,9,17:32
+111,2024-01-10,China A Go-Go (5960 Losee Rd),Annville Ct,89081,7.16,7.16,17.38,3,17:33
+112,2024-01-11,The Burger Den (7071 W Craig Rd),Sky Pointe Dr,89130,5.49,5.49,32.17,9.1,6:09
+112,2024-01-11,Taco Bell (3260 N Durango Rd),Canyon Magic Ave,89129,4.55,4.55,17.33,6.3,6:24
+112,2024-01-11,7-Eleven (3250 N Durango Rd),N Rampart Blvd,89128,4.00,4.00,13.97,1.2,7:07
+112,2024-01-11,Walgreens (8500 W Cheyenne Ave),Country Pines Ave,89129,5.00,5.00,9.53,1.4,7:34
+112,2024-01-11,McDonald's (8425 W Centennial Pkwy),Deer Springs Way,89149,3.70,3.70,24.28,1,7:38
+112,2024-01-11,Starbucks (7170 N Durango Dr),Green Ferry Ave,89131,5.05,5.05,23.22,5.6,8:09
+113,2024-01-12,Jack in the Box (6445 N Aliante Pkwy),Villa Pisani Ct,89031,3.00,3.00,7.78,1.3,16:01
+113,2024-01-12,Rocco's New York Pizza (6885 N Aliante Pkwy),Coral Gables Dr,89130,5.01,5.01,16.80,4.8,16:13
+113,2024-01-12,Rivas Mexican Grill (6885 N Aliante Pkwy),Cabot Falls Ave,89149,8.52,8.52,23.78,10.3,17:02
+113,2024-01-12,Buffalo Wild Wings (150 E Centennial Pkwy),Saddlebill Ct,89084,10.98,13.49,12.87,3,17:02
+113,2024-01-12,Burger King (9640 W Skye Canyon Park Rd),Oso Blanca Rd,89149,4.42,4.42,13.17,3.2,17:37
+113,2024-01-12,Bowlology (5635 Centennial Center Blvd),Aztec Heights St,89081,10.15,10.63,34.60,14.3,17:40
+113,2024-01-12,Roberto's Taco Shop (5725 Losee Rd),Bounding Home Rd,89086,4.90,4.90,23.88,5.2,18:22
+113,2024-01-12,Golden Phoenix Chinese Restaurant (2345 Centennial Pkwy),Moon Hill Rock Ave,89084,13.06,13.06,18.35,7.9,18:54
+114,2024-01-13,Roberto's Taco Shop (6335 N Commerce St),Morning Splash Ave,89131,8.72,8.72,31.68,8.4,7:49
+114,2024-01-13,7-Eleven (6620 N 5th St),E Azure Ave,89081,5.00,5.00,11.52,2.8,7:39
+114,2024-01-13,Chick-fil-A (1720 W Craig Rd),Thorntree Ave,89031,3.49,3.49,19.00,5.3,7:24
+114,2024-01-13,Jack in the Box (5536 N Camino Al Norte),Royal Yacht Way ,89031,2.00,2.00,8.42,2.7,7:22
+114,2024-01-13,McDonald's (5740 Losee Rd),Hollycroft Dr,89081,6.92,6.92,19.45,4.9,6:45
+115,2024-01-13,Roberto's Taco Shop (7155 Grand Montecito Pkwy),Rancho Camino Ct,89129,6.05,6.05,18.18,5.4,18:28
+115,2024-01-13,Don Tortaco #7 (9859 W Deer Srpings Way),N Durango Dr,89149,5.12,5.12,12.80,2.6,18:17
+115,2024-01-13,Taco Bell (8043 N Durango Dr),Grissy Butte Ct,89149,7.36,7.36,12.85,3.6,18:06
+115,2024-01-13,Panda Express (6475 N Decatur Blvd),Colorful Pines Ave,89143,10.74,10.74,27.62,10.4,17:37
+115,2024-01-13,Lulu Hawaiian BBQ (6512 N Decatur Blvd),Aliante Pkwy,89084,7.36,7.36,20.65,5,17:13
+115,2024-01-13,The Habit Burger Grill (6482 N Decatur Blvd),Flower Moon Ave,89084,5.02,5.02,17.13,2.7,16:51
+115,2024-01-13,Roberto's Taco Shop (6320 Simmons St),Mmmorning Splash Ave,89131,6.68,6.68,20.03,5.3,16:16
+116,2024-01-14,Capriotti's Sandwich Shop (7300 N Aliante Pkwy),Vass Springs Pl,89084,5.33,5.33,16.23,3.6,13:43
+116,2024-01-14,Taco Bell (2760 W Ann Rd),Mojave Evening St,89084,4.69,4.69,16.55,6,13:21
+116,2024-01-14,Subway (6770 N Durango Dr),Sky Pointe Dr,89130,6.79,6.79,25.07,8.2,12:14
+116,2024-01-14,Panda Express (6475 N Decatur Blvd),Killian Ave,89084,5.64,5.64,14.87,2.9,12:10
+117,2024-01-14,Geisha House of Steak & Sushi (6572 N Decatur Blvd),Mountain Rail Dr,89084,4.59,4.59,18.08,5,18:20
+117,2024-01-14,Five Guys (2520 E Craig Rd),Porticella Ave,89084,7.39,7.39,27.73,11,17:46
+117,2024-01-14,Taco Bell (355 W Centennial Pkwy),Sierra Breeze Ave,89031,4.00,4.00,11.33,1.3,17:30
+117,2024-01-14,Pizza Hut (6355 N Commerce St),Pine Willow Ct,89084,3.78,3.78,7.05,1,17:08
+118,2024-01-15,Jersey Mike's (5595 Simmons St),Nnnaff Ridge Dr,89131,5.70,5.70,28.58,5,13:15
+118,2024-01-15,Roberto's Taco Shop (6320 Simmons St),Iberville St,89031,7.80,7.80,10.23,2.2,13:02
+118,2024-01-15,The Habit Burger Grill (6482 N Decatur Blvd),W Ann Rd,89031,4.60,4.60,19.05,4,13:38
+118,2024-01-15,Smashburger (5655 Centennial Center Blvd),W Rome Blvd,89084,6.23,6.23,22.97,7.8,12:15
+118,2024-01-15,Capriotti's Sandwich Shop (7240 W Azure Rd),W Prairie Run Ave,89149,4.60,4.60,15.03,4.3,11:56
+118,2024-01-15,McDonald's (6595 N Decatur Blvd),California Condor Ave,89084,4.30,4.30,16.87,3.1,11:34
+118,2024-01-15,McDonald's (6595 N Decatur Blvd),Mazarine St,89084,8.09,8.09,14.47,3.6,11:18
+119,2024-01-15,McDonald's (9566 W Skye Canyon Park),Marble Lake St,89149,5.14,5.14,20.37,3.3,18:12
+119,2024-01-15,Subway (8430 W Farm Rd),Big Plantation Ave,89143,11.97,11.97,22.77,3,17:48
+119,2024-01-15,Greens & Proteins (6180 N Decatur Blvd),Tule Springs Rd,89131,9.18,9.18,29.63,7.4,17:21
+119,2024-01-15,CJ's Italian Ice & Custard (6885 N Aliante Pkwy),N Decatur Blvd,89131,7.90,7.90,20.43,5.4,17:02
+119,2024-01-15,7-Eleven (2525 W Deer Springs Way),Moonglade St,89084,3.05,3.05,16.22,4.1,16:30
+120,2024-01-17,Burger King (6091 N Decatur Blvd),Seyfert Ave,89084,11.77,11.77,28.45,4.6,13:28
+120,2024-01-17,Capriotti's Sandwich Shop (2620 Nature Park Dr),W Ann Rd,89031,5.00,5.00,9.92,2.7,13:04
+120,2024-01-17,Chili's Grill & Bar (6505 N Decautr Blvd),Cascade Pools Ave,89131,7.08,7.08,12.03,5.6,12:41
+120,2024-01-17,Panera (7890 W Tropical Pkwy),Lagunilla Ave,89149,4.04,4.04,12.08,3.8,12:07
+120,2024-01-17,Rachel's Kitchen (7010 N Durango Dr),Hadnot St,89166,10.59,10.59,30.13,6.5,11:49
+120,2024-01-17,The Habit Burger Grill (6482 N Decatur Blvd),N Durango Dr,89149,9.62,9.62,19.10,6.4,11:34
+121,2024-01-18,Fatburger (4525 N Rancho Dr),Cabin Fever St,89149,7.48,7.48,25.95,11.4,11:07
+121,2024-01-18,Freed's Desert Shop (6475 N Decatur Blvd),Special Ct,89130,7.24,7.24,10.53,3.2,11:19
+122,2024-01-18,Capriotti's Sandwich Shop (2620 Nature Park Dr),Discovery Downs Ct,89081,7.08,7.08,16.90,8.5,16:42
+122,2024-01-18,7-Eleven (260 W Centennial Pkwy),Silent Sunset Ave,89084,3.34,3.34,11.35,4.2,16:48
+122,2024-01-18,Roberto's Taco Shop (6335 N Commerce St),Cornerstone Pl,89031,8.01,8.01,8.92,2.4,17:10
+122,2024-01-18,Capriotti's Sandwich Shop (2620 Nature Park Dr),Angels Landing Ave,89131,10.47,11.58,14.50,3.5,17:33
+122,2024-01-18,The Habit Burger Grill (6482 N Decatur Blvd),Nuevo Leon St,89031,3.52,3.52,14.90,3.4,17:49
+122,2024-01-18,Roberto's Taco Shop (6320 Simmons St),Glimmer Point St,89084,5.59,5.59,16.45,3.2,18:07
+122,2024-01-18,7-Eleven (2525 W Deer Springs Way),Whispering Marsh Dr,89131,4.60,4.60,16.08,5.6,18:16
+122,2024-01-18,Rivas Mexican Grill (6885 N Aliante Pkwy),Contour Bend Ave,89084,5.00,5.00,15.37,2.9,18:53
+123,2024-01-19,Mconald's (4804 W Lone Mountain R),Refield Ave,89032,6.79,4.79,21.08,4.2,16:18
+123,2024-01-19,Shake Shack (1830 W Craig Rd),Cedar Waxwing St,89084,8.87,6.87,26.68,9.6,16:47
+123,2024-01-19,Geisha House of Steak & Sushi (6572 N Decatur Blvd),Fawn Heather Ct,89149,8.49,8.49,20.08,6.5,17:19
+123,2024-01-19,McDonald's (8425 W Centennial Pkwy),N Durango Dr,89149,5.76,5.76,13.23,1.9,17:40
+123,2024-01-19,Taco Bell (6520 N Buffalo Dr),Willldhorse Lege Ave,89131,8.06,8.06,26.35,8.8,17:53
+123,2024-01-19,TGI Friday's (7300 N Aliante Pkwy),Little Bow Ave,89084,6.78,6.78,19.43,4,18:17
+123,2024-01-19,Little Caesars (5515 Camino Al Norte),Menenhall Dr,89081,5.06,5.06,16.28,4.6,18:34
+123,2024-01-19,L&L Hawaiian Barbecue (2520 E Craig Rd),McCarran St,89081,10.07,10.07,16.85,4.4,19:03
+123,2024-01-19,China A Go-Go (5960 Losee Rd),Willowick Ave,89031,6.29,6.29,12.72,3.6,19:25
+124,2024-01-20,Jack in the Box (6445 N Aliante Pkwy),Clayton St,89031,4.01,4.01,21.42,6.1,10:36
+124,2024-01-20,7-Eleven (2525 W Deer Springs Way),Majestic Pond Ave,89084,3.00,3.00,7.40,1.7,11:21
+124,2024-01-20,Jack in the Box (5536 N Camino Al Norte),W Lone Mountain Rd,89031,5.06,5.06,20.80,4.2,11:28
+125,2024-01-20,Roberto's Taco Shop (6320 Simmons St),Winter Valley Ct,89130,7.08,7.08,14.68,5,17:21
+125,2024-01-20,McDonald's (2836 W Ann Rd),W Gowan Rd,89032,5.08,5.08,21.40,8.2,17:21
+125,2024-01-20,Tacos Los Barrios (1570 W Cheyenne Ave),Deep Valley Ave,89084,12.90,12.90,33.67,11.2,18:05
+125,2024-01-20,McDonald's (6680 N 5th St),Crazy Creek St,89031,4.43,4.43,13.30,4,18:33
+125,2024-01-20,Roberto's Taco Shop (6320 Simmons St),Glennmeadow Ct,89084,5.67,5.67,13.22,4.6,18:54
+126,2024-01-21,Taco Bell (355 W Centennial Pkwy),Icy River Ave,89031,3.09,3.09,8.45,2.5,16:37
+126,2024-01-21,Buffalo Wild Wings (150 E Centennial Pkwy),Monte Alban Dr,89031,17.58,17.58,31.02,6.4,16:46
+126,2024-01-21,Krispy Kreme (1331 W Craig Rd),Majestic Pond Ave,89084,4.08,4.08,20.62,5.9,17:14
+126,2024-01-21,Walgreens (6435 N Aliante Pkwy),Beeline Ct,89031,4.00,4.00,10.65,2.6,17:36
+126,2024-01-21,Denny's (5585 Simmons St),Garden Swing Ave,89031,3.22,3.22,12.38,3.3,17:47
+126,2024-01-21,Shake Shack (1830 W Craig Rd),E Craig Rd,89115,15.35,18.74,19.83,6.6,17:58
+127,2024-01-22,Panda Express (6475 N Decatur Blvd),W Gliding Gulls Ave,89084,4.00,4.00,10.82,3.1,18:50
+127,2024-01-22,Burger King (6091 N Decatur Blvd),Sunray Point St,89084,7.51,7.51,35.57,7,18:19
+127,2024-01-22,Panda Express (5595 Simmons St),Black Eyed Susan Ct,89031,3.09,3.09,16.55,3.8,18:19
+127,2024-01-22,Cinnaholic (7920 W Tropical Pkwy),Mountain Rail Dr,89084,7.52,7.52,27.35,8.3,17:24
+127,2024-01-22,Burger King (3004 W Ann Rd),Dover Glen Dr,89031,11.42,11.42,24.62,4.8,17:20
+127,2024-01-22,Atomic Wings (5595 Simmons St),Maiden Run Ave,89130,4.23,4.23,17.98,6.3,17:07
+127,2024-01-22,The Habit Burger Grill (6482 N Decatur Blvd),Rietz Canyon St,89131,4.04,4.04,15.18,4.2,16:37
+127,2024-01-22,Roberto's Taco Shop (6320 Simmons St),W Deer Springs Way,89084,3.01,3.01,18.80,4.2,8:39
+128,2024-01-24,Chick-fil-A (1720 W Craig Rd),N Capehart Falls St,89081,5.07,5.07,22.95,7.1,12:44
+128,2024-01-24,Harold's Chicken Shack (6320 Simmons St),Craig Crossing Dr,89032,3.49,3.49,15.68,4.3,12:35
+128,2024-01-24,Pinkbox Doughnuts (1210 W Craig Rd),Diamond Beach Ct,89031,6.08,6.08,13.68,4.3,12:14
+128,2024-01-24,Firehouse Subs (6171 N Decatur Blvd),W Craig Rd,89032,7.31,7.31,19.47,10.4,11:57
+129,2024-01-25,Taco Bell (2760 W Ann Rd),N Divers Loons St,89084,9.51,9.51,21.47,5.1,13:17
+129,2024-01-25,Jack in the Box (6445 N Aliante Pkwy),Gallowgate Ct,89084,8.64,8.64,10.25,1.7,13:08
+129,2024-01-25,Popeye's (605 W Craig Rd),Mosaic St,89032,8.64,8.64,15.45,3.9,12:41
+129,2024-01-25,Tropical Smoothie Cafe (445 W Craig Rd),W Brooks Ave,89030,4.19,4.19,13.03,3.1,12:24
+129,2024-01-25,China A Go-Go (5960 Losee Rd),W Craig Rd,89032,4.46,4.46,20.42,4.3,12:05
+129,2024-01-25,Houston Tx Hot Chicken (7155 W Ann Rd),Theodore St,89081,5.43,5.43,22.80,13.4,11:38
+130,2024-01-25,Rivas Mexican Grill #3 (6885 N Aliante Pkwy),N Strutting Silver Ct,89131,7.04,7.04,19.45,6.9,18:35
+130,2024-01-25,Taco Bell (355 W Centennial Pkwy),Great Hollow Ave,89086,4.11,4.11,15.75,2.5,18:21
+130,2024-01-25,Lllinda Michoacana Ice Cream (7501 N Cimarron Rd),Wickford Dr,89032,7.52,12.33,48.85,10.8,17:12
+130,2024-01-25,Blaze Pizza (6211 N Decatur Blvd),N Cimarron Rd,89131,13.30,13.30,38.88,7.8,16:42
+131,2024-01-26,Zen Curry Dining (225 W Centennial Pkwy),Falling Tree Ave,89031,3.10,3.10,12.02,4.3,11:33
+131,2024-01-26,Sunflower Vietnamese Restaurant (4210 W Craig Rd),Nesting Wren Dr,89084,7.06,7.06,18.50,6.8,12:00
+131,2024-01-26,Subway (6885 Aliante Pkwy),Nash Tracks St,89084,7.89,7.89,11.10,1.8,13:04
+132,2024-01-26,Marco's Pizza (171 W Centennial Pkwy),Champagne Gold Ave,89086,6.07,3.07,16.28,4.7,18:05
+132,2024-01-26,China A Go-Go (5960 Losee Rd),E Craig Rd,89030,11.37,11.37,26.30,6.2,18:17
+132,2024-01-26,McDonald's (5740 Losee Rd),E Rome Blvd,89086,5.37,5.37,15.10,4,18:43
+132,2024-01-26,Roberto's Taco Shop (5725 Losee Rd),Highledge St,89081,3.51,3.51,13.75,3.4,18:55
+132,2024-01-26,Rivas Mexican Grill #8 (2800 E Tropical Pkwy),Bear Springs St,89031,8.01,8.01,17.37,3.9,19:13
+132,2024-01-26,Taco Bell (2760 W Ann Rd),San Esteban Ave,89084,5.59,5.59,15.10,4.9,19:27
+133,2024-01-27,Popeye's (6820 N 5th St),San Mateo St,89085,5.05,5.05,20.58,7.3,11:42
+134,2024-01-27,Del Taco (6160 N Decatur Blvd),Bristlebird St,89084,5.00,5.00,13.13,1.6,18:08
+135,2024-01-28,Firehouse Subs (6171 N Decatur Blvd),Yellow Mandarin Ave,89081,8.11,8.11,18.72,11.4,13:31
+135,2024-01-28,Wingstop (5725 Losee Rd),Iris Kelly Ave,89081,5.06,5.06,17.63,5.3,13:57
+135,2024-01-28,7-Eleven (529 E Lone Mountain Rd),Camarillo Dr,89031,4.11,4.11,13.58,4,14:13
+135,2024-01-28,Dave's Hot Chicken (1735 W Craig Rd),Tustin Hills St,89081,10.11,10.11,22.62,4.7,14:30
+135,2024-01-28,7-Eleven (260 W Centennial Pkwy),Healing Waters Ln,89031,3.00,3.00,11.67,3.1,14:53
+135,2024-01-28,Roberto's Taco Shop (6320 Simmons St),Barbosa Dr,89031,3.05,3.05,13.47,3.5,14:59
+136,2024-01-29,Tropical Smoothie Cafe (6360 Simmons St),Aviano Pines Ave,89129,8.10,8.10,41.78,11.1,11:13
+136,2024-01-29,Jack in the Box (3250 N Durango Dr),Village Center Cir,89134,4.01,4.01,22.43,6.1,12:02
+136,2024-01-29,Cafe Rio (7664 W Lake Mead Blvd),W Cheyenne Ave,89129,6.04,6.04,18.83,5.3,12:32
+136,2024-01-29,Capriotti's Sandwich Shop (7440 W Cheyenne Ave),N Trailhead Mesaaa St,89129,4.16,4.16,9.23,3.4,12:49
+136,2024-01-29,Jack in the Box (6445 N Aliante Pkwy),Shanon Michelle Ave,89031,6.60,6.60,12.15,5.8,13:12
+136,2024-01-29,Dave's Hot Chicken (1735 W Craig Rd),N Capehart Falls St,89081,6.51,6.51,27.42,7.6,13:16
+136,2024-01-29,China A Go-Go (5960 Losee Rd),Boulder Canyon St,89084,6.59,6.59,12.67,4.2,13:48
+137,2024-01-29,Dairy Queen Grill & Chill (2335 W Deer Springs Way),W Rome Blvd,89084,5.59,5.59,20.35,3.8,17:19
+137,2024-01-29,Jersey Mike's (5595 Simmons St),Barrel Oak Ave,89031,6.55,6.55,22.93,5.1,17:39
+137,2024-01-29,7-Eleven (2525 W Deer Springs Way),China Falls Ave,89085,7.05,7.05,14.82,5.1,18:13
+137,2024-01-29,7-Eleven (2525 W Deer Springs Way),Cooks Meadow St,89084,5.12,5.12,12.20,2.5,18:33
+137,2024-01-29,KFC (6965 Aliante Pkwy),Roundup Ridge St,89131,6.05,6.05,11.42,4,18:47
+138,2024-01-30,Capriotti's Sandwich Shop (2620 Nature Park Dr),Lower Lake Ct,89084,3.08,3.08,14.73,4.7,11:28
+138,2024-01-30,Einstein Bros Bagels (6770 N Durango Dr),Silk Threads Ave,89149,3.05,3.05,13.07,4.9,11:58
+138,2024-01-30,Dunkin' (6935 N Durango Dr),Bluebird Wing St,89084,6.05,6.05,16.38,7.8,12:16
+138,2024-01-30,Roberto's Taco Shop (6320 Simmons St),Inlet Bay Ave,89031,3.00,3.00,9.58,2.7,12:28
+138,2024-01-30,Buffalo Wild Wings (150 E Centennial Pkwy),Rustic Village Ave,89086,11.26,11.26,25.37,4.3,12:28
+138,2024-01-30,Makai Pacific Island Grill (6520 Losee Rd),Hansa Ave,89081,6.29,6.29,16.77,4.7,13:16
+138,2024-01-30,Subway (6885 Aliante Pkwy),Deer Run Ct,89031,6.24,6.24,28.85,7.5,14:21
+139,2024-01-31,7-Eleven (2525 W Deer Springs Way),Warthen Meadows St,89131,4.08,4.08,16.92,5.2,10:55
+139,2024-01-31,Cruncheese Korean Hotdog (6572 N Decatur Blvd),W Cheyenne Ave,89108,7.42,7.42,20.50,8.4,11:30
+139,2024-01-31,Voodoo Wing Company (6728 W Cheyenne Ave),Fuchsia Nights Ave,89084,11.36,11.36,30.83,12,11:53
+139,2024-01-31,Namba Sushi (2760 Deer Springs Way),Big Valley Ln,89081,4.68,4.68,23.92,6.3,14:17
+139,2024-01-31,7-Eleven (2525 W Deer Springs Way),Orange Orchid Pl,89084,4.12,4.12,13.97,3.7,14:45
+139,2024-01-31,Roberto's Taco Shop (6320 Simmons St),Beech Fern Ave,89084,6.68,6.68,22.27,5,16:59
+139,2024-01-31,Zen Curry Dining (225 W Centennial Pkwy),Willow Berry Ave,89032,3.04,3.04,20.85,6.7,17:39
+140,2024-02-02,Popeye's (6820 N 5th St),Camino Al Norte,89031,5.66,5.66,36.88,7.7,10:38
+140,2024-02-02,Chick-fil-A (1720 W Craig Rd),W Deer Springs Way,89084,5.05,5.05,18.55,5.5,11:14
+140,2024-02-02,Zen Curry Dining (225 W Centennial Pkwy),Monte Alban Dr,89081,5.56,5.56,11.95,3.9,11:29
+140,2024-02-02,Panera Bread (1520 E Craig Rd),Desert Ridge Ave,89031,6.81,6.81,25.80,5.9,11:46
+140,2024-02-02,Roberto's Tacho Shop (6320 Simmons St),Apache Valley Ave,89131,8.19,8.19,23.17,6.6,12:10
+140,2024-02-02,Harold's Chicken Shack (6320 Simmons St),Sunny Acres Ave,89081,5.06,5.06,20.33,6.8,12:31
+140,2024-02-02,Roberto's Taco Shop (6320 Simmons St),Star Shadow St,89031,8.28,8.28,13.67,2.6,13:10
+140,2024-02-02,Jack in the Box (6445 N Aliante Pkwy),Old Stable Ave,89131,17.84,18.84,32.22,7,13:31
+141,2024-02-02,Capriotti's Sandwich Shop (2620 Nature Park Dr),Lamance Ct,89031,8.66,8.66,28.45,5,17:04
+142,2024-02-03,McDonald's (6680 N 5th St),Armide St,89081,12.00,12.00,31.12,7.6,7:06
+143,2024-02-03,Jack in the Box (6445 N Aliante Pkwy),Morning Splash Ave,89131,9.57,9.57,23.02,5.5,11:31
+143,2024-02-03,7-Eleven (2525 W Deer Springs Way),Siena Rose St,89031,4.61,4.61,16.33,4,14:25
+143,2024-02-03,KFC (6965 Aliante Pkwy),N 5th St,89084,5.03,5.03,20.03,5.5,16:42
+143,2024-02-03,7-Eleven (6620 N 5th St),E Azure Ave,89081,4.00,4.00,7.70,1.2,17:07
+143,2024-02-03,Panda Express (6778 N 5th St),Arrowbird Ave,89031,9.00,9.00,11.07,2.7,17:15
+143,2024-02-03,7-Eleven (260 W Centennial Pkwy),Majestic Pearl Pl,89084,7.35,7.35,8.63,2.4,17:28
+143,2024-02-03,Marco's Pizza (171 W Centennial Pkwy),Grant Hill Ave,89081,13.02,13.26,17.33,4.4,17:46
+143,2024-02-03,China A Go-Go (5960 Losee Rd),N Arbor Crest St,89081,5.03,5.03,12.77,2.5,18:04
+143,2024-02-03,Wingstop (5725 Losee Rd),Journey Hills St,89084,14.76,14.76,26.08,6.6,18:08
+144,2024-02-05,Rivas Mexican Grill #3 (6885 N Aliante Pkwy),N Grand Canyon Dr,89166,7.90,7.90,27.15,9.9,11:32
+144,2024-02-05,Blaze Pizza (7160 N Durango Dr),Flowering Meadows Ave,89131,18.32,18.32,39.25,10.5,12:00
+145,2024-02-06,Carl's Jr. (2650 Nature Park Dr),Giant Oak St,89084,5.03,5.03,15.78,3.3,16:59
+145,2024-02-06,TGI Friday's (7300 N Aliante Pkwy),Fledgling Dr,89084,11.19,12.35,15.83,2.7,17:14
+145,2024-02-06,Subway (6885 Aliante Pkwy),Jamaica Coast Ct,89031,7.30,7.30,12.77,3,17:37
+145,2024-02-06,McDonald's (2836 W Ann Rd),Bright Leaf Ct,89031,5.47,5.47,14.72,2.3,17:38
+145,2024-02-06,Amazing Thai (3000 W Ann Rd),Morning Falls Ave,89131,13.13,13.13,31.62,5.9,18:01
+145,2024-02-06,Chipotle Mexican Grill (6211 N Decatur Blvd),Courlan Dr,89084,5.70,5.70,16.50,5.3,18:34
