@@ -1,78 +1,36 @@
-## Maximizing Earnings with UberEats: An Analytical Approach
-### By Czar Yobero | Project Completion Date: [Date]
+# UberEats Earnings Optimization Analysis
 
-📧 Email: cyobero@gmail.com
-💼 LinkedIn: [](linkedin.com/in-czaryobero)
+## Project Overview
+This project delves into the exploration and analysis of UberEats delivery data with the primary goal of identifying strategies to maximize earnings for delivery partners. By employing a comprehensive exploratory data analysis (EDA) approach, this study highlights the impact of various factors such as time of day, day of the week, and geographical locations on earnings potential.
 
----
+## Objectives
+- **Analyze UberEats delivery data** to uncover patterns and insights related to earnings.
+- **Identify key factors** that significantly affect delivery earnings.
+- **Provide actionable recommendations** for delivery partners to optimize their schedules and routes for increased earnings.
 
-### 🚀 Introduction/Overview
-**Objective**: Explore UberEats delivery data to discover actionable insights for boosting driver earnings in the gig economy.
+## Tools and Technologies
+- **Python**: For data manipulation and analysis.
+- **Pandas & NumPy**: Utilized for efficient data processing and numerical operations.
+- **Seaborn & Matplotlib**: For generating insightful visualizations.
+- **Jupyter Notebook**: For documenting the analysis process and findings.
 
-**Motivation**: As the gig economy expands, drivers seek strategies to optimize their income from food delivery platforms like UberEats.
+## Key Findings
+- Earnings vary significantly by time of day and day of the week, with dinner times and weekends being the most lucrative.
+- Certain geographical areas yield higher average earnings, indicating the importance of strategic location selection.
+- Feature engineering revealed additional insights into earnings per hour and distance-based earnings optimization.
 
----
+## Repository Contents
+- `analysis.ipynb`: Jupyter Notebook containing the full exploratory data analysis, including data preprocessing, analysis, and visualization steps
+- `data.csv`: The raw deliveries and earnings data used for analysis
+- `README.md`: Project description and findings summary
 
-### ❓ Problem Statement
-**Challenge**: Identifying key factors influencing UberEats drivers' earnings.
+## How to Use
+1. Clone this repository to your local machine.
+2. Ensure you have Python installed, along with the necessary libraries (pandas, numpy, seaborn, matplotlib).
+3. Navigate to the repository directory and launch Jupyter Notebook to explore the `analysis.ipynb` notebook.
 
-**Importance**: Enhancing earnings is vital for drivers' financial stability and satisfaction.
+## Conclusions
+This analysis provides valuable insights into maximizing earnings for UberEats delivery partners. By understanding and leveraging the identified factors, delivery partners can make informed decisions to enhance their earning potential.
 
----
-
-### 🛠 Tools and Technologies
-- **Data Analysis**: Utilized Python for comprehensive data manipulation and analysis.
-- **Libraries/Frameworks**: Pandas, NumPy, seaborn, and matplotlib for data management and visualization.
-
----
-
-### 📊 Data Overview
-- **Sources**: Analyzed historical earnings and delivery data from UberEats.
-- **Features**: Data included metrics like `date`, `time_of_day`, `day_of_week`, and `actual_earnings`.
-- **Observations**: Initial analysis showed earnings variability by time and day.
-
----
-
-### 🔍 Methodology
-- **Data Prep**: Standardized time slots and addressed data inconsistencies.
-- **Analysis**: Conducted exploratory data analysis (EDA) to uncover earnings trends.
-- **Feature Engineering**: Enhanced analysis with new metrics such as `earnings_per_hour`.
-
----
-
-### 📈 Key Findings and Insights
-- **Visualizations**: Showcased through scatter and box plots to illustrate earnings patterns.
-- **Insights**:
-  - Dinner times, particularly on weekends, led to higher earnings.
-  - Specific zip codes demonstrated elevated demand and earnings potential.
-
----
-
-### 🚧 Challenges and Solutions
-- **Obstacles**: Addressed data gaps and outlier effects.
-- **Strategies**: Applied data imputation and separate outlier analysis for clear insights.
-
----
-
-### 💡 Impact and Business Value
-- **Outcomes**: Identified peak hours and areas for maximizing driver earnings.
-- **Recommendations**: Emphasize weekend dinner deliveries and focus on high-demand areas.
-
----
-
-### 📝 Conclusion
-- **Summary**: Presented effective strategies for increasing UberEats drivers' earnings using data insights.
-- **Future Work**: Suggest examining customer satisfaction and its effect on tips.
-
----
-
-### 🙏 Acknowledgments
-Special thanks to the online communities and UberEats for their invaluable datasets and support.
-
----
-
-### 📬 Contact Information and Call to Action
-👤 **Czar Yobero** | 📧 **[Your Contact Information]**
-
-**Connect for insights on optimizing gig economy earnings or potential collaborations!**
+For further details, dive into the [analysis notebook](analysis.ipynb) or explore the [visualizations folder](visualizations/).
 
